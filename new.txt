@@ -1,0 +1,5 @@
+깃으로 관리 -> git init
+
+변경사항 발생
+staging area -> add
+기록남김 -> commit
